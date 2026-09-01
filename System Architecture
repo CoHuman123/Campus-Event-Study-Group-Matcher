@@ -1,0 +1,7 @@
+[ User (Web Browser) ] 
+          │
+          ▼
+ [ Next.js / Tailwind UI ]  ──(HTTP POST)──► [ Python FastAPI Backend ]
+                                                      │
+                                                      ├──► [ Gemini / OpenAI API ] (Matches & Reasoning)
+                                                      └──► [ SQLite / Supabase ] (User Profiles & Logs)
