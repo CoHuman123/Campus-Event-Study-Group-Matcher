@@ -1,0 +1,8 @@
+{
+  "name": "Alex",
+  "major": "Computer Science",
+  "year": "1st Year",
+  "subjects": ["Data Structures", "Linear Algebra"],
+  "availability": ["Mon 4-6pm", "Wed 2-4pm"],
+  "goal": "Prepare for midterms"
+}
